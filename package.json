@@ -1,5 +1,6 @@
 {
   "name": "heroes-app",
+  "homepage": "https://delfigica.github.io/heroes-app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
