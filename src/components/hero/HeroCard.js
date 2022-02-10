@@ -25,7 +25,7 @@ export const HeroCard = ({
             <h3>{superhero}</h3>
           </div>
           <p>{alter_ego}</p>
-        <Link to={`/hero/${id}`}>
+        <Link to={`heroes-app/hero/${id}`}>
             <button className="btn btn-dark">View more</button>
         </Link>
         </div>
